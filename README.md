@@ -8,6 +8,15 @@ We seek to answer the following questions:
 
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
++----+---------+
+|YEAR|AVG_PRICE|
++----+---------+
+|2022|296363.88|
+|2021|301819.44|
+|2020|298353.78|
+|2019| 300263.7|
++----+---------+
+
 What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
 What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? 
